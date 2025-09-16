@@ -1,0 +1,1 @@
+FROM almalinux:9 ----#settje base image

@@ -1,1 +1,2 @@
-FROM almalinux:9 ----#settje base image
+FROM almalinux:9 
+#sette base image
